@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # wrap_contents.sh takes 3 inputs:
 # The name of the file containing the "contents" that need to be wrapped between the header and footer
 content=$1
